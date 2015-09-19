@@ -13,7 +13,7 @@ HTML and CSS Layout Test. Code Review 2.
 None.
 
 ###Link to GitHub Pages Site
-N/A
+[Link to GitHub Pages Site](http://jeffsdev.github.io/Layout-Test/)
 
 ###Copyright and License Info
 Copyright (c) 2015 Jeff Seymour
