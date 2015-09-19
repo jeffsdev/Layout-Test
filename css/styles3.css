@@ -1,20 +1,37 @@
+body {
+  background: #777;
+}
+
+/*--header--*/
 header {
   background: #bbb;
   padding: 1%;
 }
 
+/*--nav bar--*/
 nav {
-  background: #a66;
-  padding: 1%;
+  background: #436;
+  padding: 1% 0;
 }
 
+nav ul {
+  list-style-type: none;
+  padding: 0 1%;
+  margin: 0;
+}
 
+nav ul li {
+  display: inline;
+  margin: 1%;
+}
+
+/*--main section--*/
 section {
   background: #8a8;
   padding: 1%;
 }
 
-
+/*--sidebar--*/
 aside {
   background: #88a;
   padding: 1%;
