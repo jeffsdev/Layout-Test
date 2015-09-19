@@ -1,0 +1,51 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background: #777;
+}
+
+/*--header--*/
+header {
+  background: #bbb;
+  padding: 1%;
+}
+
+header h1 {
+  padding: 20px 0;
+  margin: 0;
+}
+
+/*--nav menu--*/
+nav {
+  background: #a66;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 10px 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 1%;
+}
+
+/*--main section--*/
+section {
+  width: 73%;
+  min-height: 500px;
+  margin: 0;
+  padding: 1%;
+  float: left;
+  background: #8a8;
+}
+
+/*--sidebar--*/
+aside {
+  width: 23%;
+  min-height: 500px;
+  padding: 1%;
+  float: left;
+  background: #88a;
+}
