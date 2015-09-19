@@ -8,6 +8,7 @@ Epicodus Intro to Programming
 
 ###Description
 HTML and CSS Layout Test. Code Review 2.
+Includes basic version with floats, responsive version with css media queries, and version made with the bootstrap grid.
 
 ###Setup Instructions
 None.
